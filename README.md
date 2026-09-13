@@ -62,7 +62,7 @@ Requirements:
 - A restricted Gemini development API key
 
 ```bash
-git clone https://github.com/saurabh374/CVison.git
+git clone https://github.com/iamsaurabhp/CVison.git
 cd CVison
 npm install
 cp packages/backend/.env.example packages/backend/.env
@@ -112,5 +112,5 @@ and review authentication and CORS settings for the deployment environment.
 
 ## Author
 
-[Saurabh Patil](https://saurabh374.github.io/) ·
+[Saurabh Patil](https://iamsaurabhp.github.io/) ·
 [LinkedIn](https://linkedin.com/in/iamsaurabhp/)

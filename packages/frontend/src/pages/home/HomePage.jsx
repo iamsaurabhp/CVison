@@ -14,7 +14,7 @@ function HomePage() {
   const dispatch = useDispatch();
   const handleClick = () => {
     window.open(
-      "https://github.com/saurabh374/CVison",
+      "https://github.com/iamsaurabhp/CVison",
       "_blank"
     );
   };
